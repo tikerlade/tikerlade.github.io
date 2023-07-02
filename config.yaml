@@ -1,0 +1,15 @@
+languageCode: en-us
+title:        Ivan Kuznetsov
+theme:        "PaperMod"
+
+params:
+  defaultTheme: auto # to switch between dark or light according to browser theme
+  homeInfoParams:
+    Title: Welcome 🤗
+    Content: This is the place where **Ivan Kuznetsov** (me) will share things that I am passionate about. It could be Python / ML stuff, sports, ideas or achievements. I will try to tell about it in an interesting way (sure, with images)!
+
+  socialIcons:
+    - name:   github
+      url:    "https://github.com/tikerlade"
+    - name:   linkedin
+      url:    "https://www.linkedin.com/in/kuznetsov-ivan/"
