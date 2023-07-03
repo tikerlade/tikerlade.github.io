@@ -2,6 +2,7 @@ baseUrl:      https://tikerlade.github.io/
 languageCode: en-us
 title:        Ivan Kuznetsov
 theme:        "PaperMod"
+buildDrafts:  true
 
 params:
   env:              production
@@ -16,3 +17,13 @@ params:
       url:    "https://github.com/tikerlade"
     - name:   linkedin
       url:    "https://www.linkedin.com/in/kuznetsov-ivan/"
+menu:
+  main:
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
