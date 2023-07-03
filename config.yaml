@@ -4,8 +4,9 @@ title:        Ivan Kuznetsov
 theme:        "PaperMod"
 
 params:
-  env: production
-  defaultTheme: auto # to switch between dark or light according to browser theme
+  env:              production
+  ShowBreadCrumbs:  true
+  defaultTheme:     auto # to switch between dark or light according to browser theme
   homeInfoParams:
     Title: Welcome 🤗
     Content: This is the place where **Ivan Kuznetsov** (me) will share things that I am passionate about. It could be Python / ML stuff, sports, ideas or achievements. I will try to tell about it in an interesting way (sure, with images)!
