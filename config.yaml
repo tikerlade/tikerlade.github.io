@@ -4,6 +4,17 @@ title:        Ivan Kuznetsov
 theme:        "PaperMod"
 buildDrafts:  true
 
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    contentDir: content/en
+    weight: 1
+  ru:
+    languageName: Русский
+    contentDir: content/ru
+    weight: 2
+
 params:
   env:              production
   ShowBreadCrumbs:  true
