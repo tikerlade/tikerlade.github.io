@@ -2,7 +2,7 @@ baseUrl:      https://tikerlade.github.io/
 languageCode: en-us
 title:        Ivan Kuznetsov
 theme:        "PaperMod"
-buildDrafts:  true
+buildDrafts:  false
 
 defaultContentLanguage: en
 languages:
@@ -32,7 +32,7 @@ menu:
   main:
     - identifier: archives
       name: Archive
-      url: /archives/
+      url: /ru/archives/
       weight: 20
     - identifier: tags
       name: Tags
