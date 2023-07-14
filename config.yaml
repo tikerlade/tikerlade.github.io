@@ -10,10 +10,30 @@ languages:
     languageName: English
     contentDir: content/en
     weight: 1
+    menu:
+      main:
+        - identifier: archive
+          name: Archive
+          url: /en/archive/
+          weight: 20
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 30
   ru:
     languageName: Русский
     contentDir: content/ru
     weight: 2
+    menu:
+      main:
+        - identifier: archive
+          name: Archive
+          url: /ru/archive/
+          weight: 20
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 30
 
 params:
   env:              production
@@ -28,13 +48,3 @@ params:
       url:    "https://github.com/tikerlade"
     - name:   linkedin
       url:    "https://www.linkedin.com/in/kuznetsov-ivan/"
-menu:
-  main:
-    - identifier: archives
-      name: Archive
-      url: /ru/archives/
-      weight: 20
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 30
