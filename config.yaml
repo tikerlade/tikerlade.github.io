@@ -20,6 +20,10 @@ languages:
           name: Tags
           url: /tags/
           weight: 30
+        - identifier: sports
+          name: Sports
+          url: /sports/
+          weight: 40
   ru:
     languageName: Русский
     contentDir: content/ru
@@ -27,13 +31,17 @@ languages:
     menu:
       main:
         - identifier: archive
-          name: Archive
+          name: Архив
           url: /ru/archive/
           weight: 20
         - identifier: tags
-          name: Tags
+          name: Теги
           url: /tags/
           weight: 30
+        - identifier: sports
+          name: Спорт
+          url: /sports/
+          weight: 40
 
 params:
   env:              production
