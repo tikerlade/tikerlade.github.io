@@ -1,15 +1,16 @@
 baseUrl:      https://tikerlade.github.io/
-languageCode: en-us
-title:        Ivan Kuznetsov
 theme:        "PaperMod"
 buildDrafts:  false
+displayFullLangName: true
 
-defaultContentLanguage: en
 languages:
   en:
-    languageName: English
-    contentDir: content/en
+    title:        Ivan Kuznetsov
+    languageName: ":gb:"
+    contentDir:   content/en
+    displayFullLangName: true
     weight: 1
+
     menu:
       main:
         - identifier: archive
@@ -24,35 +25,52 @@ languages:
           name: Sports
           url: /sports/
           weight: 40
+
+    params:
+      env:              production
+      ShowBreadCrumbs:  true
+      defaultTheme:     auto # to switch between dark or light according to browser theme
+      homeInfoParams:
+        Title: Welcome 🤗
+        Content: This is the place where **Ivan Kuznetsov** (me) will share things that I am passionate about. It could be Python / ML stuff, sports, ideas or achievements. I will try to tell about it in an interesting way (sure, with images)!
+
+      socialIcons:
+        - name:   github
+          url:    "https://github.com/tikerlade"
+        - name:   linkedin
+          url:    "https://www.linkedin.com/in/kuznetsov-ivan/"
+
   ru:
-    languageName: Русский
+    title:        Иван Кузнецов
+    languageName: ":ru:"
     contentDir: content/ru
+    displayFullLangName: true
     weight: 2
     menu:
       main:
         - identifier: archive
           name: Архив
           url: /ru/archive/
-          weight: 20
+          weight: 1
         - identifier: tags
           name: Теги
           url: /tags/
-          weight: 30
+          weight: 2
         - identifier: sports
           name: Спорт
           url: /sports/
-          weight: 40
+          weight: 3
 
-params:
-  env:              production
-  ShowBreadCrumbs:  true
-  defaultTheme:     auto # to switch between dark or light according to browser theme
-  homeInfoParams:
-    Title: Welcome 🤗
-    Content: This is the place where **Ivan Kuznetsov** (me) will share things that I am passionate about. It could be Python / ML stuff, sports, ideas or achievements. I will try to tell about it in an interesting way (sure, with images)!
+    params:
+      env:              production
+      ShowBreadCrumbs:  true
+      defaultTheme:     auto # to switch between dark or light according to browser theme
+      homeInfoParams:
+        Title: Привет 🤗
+        Content: "Это уголок, где **Иван Кузнецов** (то бишь я) записываю вещи, относительно которых я не безразличен. Тут может быть про Python / ML, Спорт, мои идеи или достижения. Стараюсь писать интересно (и обязательно с картинками)."
 
-  socialIcons:
-    - name:   github
-      url:    "https://github.com/tikerlade"
-    - name:   linkedin
-      url:    "https://www.linkedin.com/in/kuznetsov-ivan/"
+      socialIcons:
+        - name:   github
+          url:    "https://github.com/tikerlade"
+        - name:   linkedin
+          url:    "https://www.linkedin.com/in/kuznetsov-ivan/"
