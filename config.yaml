@@ -3,6 +3,11 @@ theme:        "PaperMod"
 buildDrafts:  false
 displayFullLangName: true
 
+params: 
+  assets:
+      disableHLJS: true
+      favicon: "/assets/favicon.ico"
+
 languages:
   en:
     title:        Ivan Kuznetsov
@@ -40,6 +45,13 @@ languages:
         - name:   linkedin
           url:    "https://www.linkedin.com/in/kuznetsov-ivan/"
 
+      assets:
+          favicon: "/favicon.ico"
+          favicon16x16:  "/favicon-16x16.png"
+          favicon32x32:  "/favicon-32x32.png"
+          apple_touch_icon:  "/apple-touch-icon.png"
+          safari_pinned_tab:  "/safari-pinned-tab.svg"
+
   ru:
     title:        Иван Кузнецов
     languageName: ":ru:"
@@ -74,3 +86,10 @@ languages:
           url:    "https://github.com/tikerlade"
         - name:   linkedin
           url:    "https://www.linkedin.com/in/kuznetsov-ivan/"
+
+      assets:
+          favicon: "/favicon.ico"
+          favicon16x16:  "/favicon-16x16.png"
+          favicon32x32:  "/favicon-32x32.png"
+          apple_touch_icon:  "/apple-touch-icon.png"
+          safari_pinned_tab:  "/safari-pinned-tab.svg"
