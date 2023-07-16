@@ -3,35 +3,44 @@ theme:        "PaperMod"
 buildDrafts:  false
 displayFullLangName: true
 
-params: 
-  assets:
-      disableHLJS: true
-      favicon: "/assets/favicon.ico"
-
 languages:
   en:
     title:        Ivan Kuznetsov
     languageName: ":gb:"
     contentDir:   content/en
     displayFullLangName: true
+    env: production
     weight: 1
 
     menu:
       main:
+        - identifier: blog
+          name: Blog
+          url: blog/
+          weight: 10
         - identifier: archive
           name: Archive
-          url: /en/archive/
+          url: archive/
           weight: 20
         - identifier: tags
           name: Tags
-          url: /tags/
+          url: tags/
           weight: 30
+        - identifier: edu
+          name: Education
+          url: education/
+          weight: 40
+        - identifier: careers
+          name: Careers
+          url: careers/
+          weight: 50
         - identifier: sports
           name: Sports
-          url: /sports/
-          weight: 40
+          url: sports/
+          weight: 60
 
     params:
+      enableEmoji: true
       env:              production
       ShowBreadCrumbs:  true
       defaultTheme:     auto # to switch between dark or light according to browser theme
@@ -60,18 +69,30 @@ languages:
     weight: 2
     menu:
       main:
+        - identifier: blog
+          name: Блог
+          url: blog/
+          weight: 1
         - identifier: archive
           name: Архив
-          url: /ru/archive/
-          weight: 1
+          url: archive/
+          weight: 2
         - identifier: tags
           name: Теги
-          url: /tags/
-          weight: 2
+          url: tags/
+          weight: 3
+        - identifier: edu
+          name: Образование
+          url: education/
+          weight: 4
+        - identifier: careers
+          name: Карьера
+          url: careers/
+          weight: 5
         - identifier: sports
           name: Спорт
-          url: /sports/
-          weight: 3
+          url: sports/
+          weight: 6
 
     params:
       env:              production
