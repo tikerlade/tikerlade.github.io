@@ -47,6 +47,8 @@ languages:
       homeInfoParams:
         Title: Welcome 🤗
         Content: This is the place where **Ivan Kuznetsov** (me) will share things that I am passionate about. It could be Python / ML stuff, sports, ideas or achievements. I will try to tell about it in an interesting way (sure, with images)!
+      mainSections:
+        - blog
 
       socialIcons:
         - name:   github
@@ -101,6 +103,8 @@ languages:
       homeInfoParams:
         Title: Привет 🤗
         Content: "Это уголок, где **Иван Кузнецов** (то бишь я) записываю вещи, относительно которых я не безразличен. Тут может быть про Python / ML, Спорт, мои идеи или достижения. Стараюсь писать интересно (и обязательно с картинками)."
+      mainSections:
+        - blog
 
       socialIcons:
         - name:   github
