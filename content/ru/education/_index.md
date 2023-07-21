@@ -1,0 +1,4 @@
+---
+title:      "Образование"
+layout:     "archives"
+---
