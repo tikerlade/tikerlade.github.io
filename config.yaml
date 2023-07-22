@@ -11,6 +11,7 @@ languages:
     displayFullLangName: true
     env: production
     weight: 1
+    enableEmoji: true
 
     menu:
       main:
