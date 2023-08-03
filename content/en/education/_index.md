@@ -1,4 +1,4 @@
 ---
 title:      "Education"
-layout:     "archives"
+layout:     "education_archive"
 ---
