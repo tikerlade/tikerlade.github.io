@@ -35,6 +35,7 @@
 {{- $pages := union .RegularPages .Sections }}
 {{- end }}
 
+
 {{- range $pages.GroupByPublishDate "2006" }}
 {{- if ne .Key "0001" }}
 <div class="archive-year">

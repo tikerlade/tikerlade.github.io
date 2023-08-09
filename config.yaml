@@ -1,5 +1,5 @@
 baseUrl:      https://tikerlade.github.io/
-theme:        "PaperMod"
+theme:        ["PaperMod", "osm"]
 buildDrafts:  false
 displayFullLangName: true
 
