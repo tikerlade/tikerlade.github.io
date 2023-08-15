@@ -17,7 +17,7 @@ It was the most important competition for me. Being in top-3 was a question of f
 ## Proofs
 * [WaybackMachine Start Day](https://web.archive.org/web/20170814004316/http://pentathlon-russia.ru/news/2855.htm)
 * [WaybackMachine End Day](https://web.archive.org/web/20170814004316/http://pentathlon-russia.ru/news/2855.htm)
-* [TASS](https://web.archive.org/web/20170814004316/http://pentathlon-russia.ru/news/2855.htm)
+* [TASS](https://tass.ru/sport/4482206/amp)
 * [Local news](http://junior-sport.su/content/news/load_news?id=1288)
 * [More photos](http://www.junior-sport.su/content/gallery/load_gallery?id=434)
 
