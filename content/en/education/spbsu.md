@@ -43,7 +43,7 @@ To get into this masters program I've required to pass the following exam: [link
 * Parallel computations (YSDA)
 * Basics of statistics in Machine Learning (YSDA)
 
-## :crazy_head: Extracurricular Activities
+## :crazy_face: Extracurricular Activities
 During my 2 Master years at the university I tried to do things not only related to study. Here are several things I completed:
 1. [ML Models finetuning](https://joinmkn.ru/summer_school_2023) (Pupils 2023 Summer School)
 2. [Yandex Professor Assistance](https://academy.yandex.ru/teaching-assistants#winners) (Fall 2023 - 2024)
