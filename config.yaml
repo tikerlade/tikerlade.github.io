@@ -49,11 +49,13 @@ languages:
 
       socialIcons:
         - name:   github
-          url:    "https://github.com/tikerlade"
+          url:    "https://github.com/tikerlade/"
         - name:   linkedin
           url:    "https://www.linkedin.com/in/kuznetsov-ivan/"
         - name:   goodreads
-          url:    "https://www.goodreads.com/user/show/128771516-ivan"
+          url:    "https://www.goodreads.com/user/show/128771516-ivan/"
+        - name:   leetcode
+          url:    "https://leetcode.com/tikerlade/"
       assets:
           favicon: "/favicon.ico"
           favicon16x16:  "/favicon-16x16.png"
