@@ -35,4 +35,4 @@ I don't have a clear answer to this question.
 
 ## The road home (to me)
 * 05.09 -- order on amazon (thanks to Egor)
-*
+* 09.09 -- HHKB arrived to Egor (it looks amazing!)
