@@ -37,6 +37,7 @@ languages:
           weight: 70
 
     params:
+      ShowPostNavLinks: true
       enableEmoji: true
       env:              production
       ShowBreadCrumbs:  true
@@ -93,6 +94,7 @@ languages:
           weight: 8
 
     params:
+      ShowPostNavLinks: true
       env:              production
       ShowBreadCrumbs:  true
       defaultTheme:     auto # to switch between dark or light according to browser theme

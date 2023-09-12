@@ -1,5 +1,5 @@
 ---
-title:          "Why HHKB / Happy Hacking Keyboard?"
+title:          "🤯 Why HHKB / Happy Hacking Keyboard?"
 description:    "Or how to spend 259.99£ / 31618₽ on the keyboard"
 date:           2023-09-06T22:29:18+03:00
 draft:          true
