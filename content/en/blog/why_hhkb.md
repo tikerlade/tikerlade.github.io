@@ -35,4 +35,6 @@ I don't have a clear answer to this question.
 
 ## The road home (to me)
 * 05.09 -- order on amazon (thanks to Egor)
-* 09.09 -- HHKB arrived to Egor (it looks amazing!)
+* 09.09 -- Egor got the keyboard
+* 10.09 -- Egor found a person who travels London - Moscow (in the end of September)
+* 12.09 -- Egor found another person, who travels London - Moscow the next day!!!!!
