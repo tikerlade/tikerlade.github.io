@@ -16,4 +16,4 @@ Team: `Top-2/12`
 After the failure at Chelyabinsk Top-5/51 ([WaybackMachine](https://web.archive.org/web/20161029010026/http://pentathlon-russia.ru/news/rusnews/2104-vserossijskie-turniry-po-troeboryu-vyigrali-maksim-dmitryuk-i-ekaterina-galukhina.html)) which held after a surgery I got kind of revenge and took 2nd place in Russian Championship, held in _"Shakty"_.
 
 ## Map
-_To be done_
+{{< openstreetmap mapName="shakty-competitions_949003" >}}
